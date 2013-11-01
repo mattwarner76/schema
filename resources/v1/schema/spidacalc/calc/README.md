@@ -1,3 +1,3 @@
 Calc Integration API
 ====================
-See documentation at [../spidacalc](../spidacalc)
+See documentation at [spidacalc](../)
