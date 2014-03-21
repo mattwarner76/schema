@@ -36,7 +36,7 @@ sourceSets {
 
 repositories {
 	mavenCentral()
-	maven { url "https://www.spidasoftware.com/artifactory/exposed-repo" }
+	maven { url "https://dev.spidasoftware.com/artifactory/exposed-repo" }
 }
 
 dependencies {
