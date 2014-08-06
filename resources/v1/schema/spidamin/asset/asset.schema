@@ -17,6 +17,11 @@
       "type": "string",
       "description": "The id of the parent station, used for updating and creation"
     },
+    "source": {
+        "id": "source",
+        "type": "string",
+        "description": "The service from which this asset was retrieved"
+    },
     "ownerId": {
       "id": "ownerId",
       "type": "number",
